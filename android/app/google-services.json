@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26385375148",
+    "project_id": "streaming-app-68775",
+    "storage_bucket": "streaming-app-68775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26385375148:android:53d03ebf6ff63604842409",
+        "android_client_info": {
+          "package_name": "com.example.sivar_watch_app_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26385375148-prtbtemj8geuqa81evbg76eav2qlslu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJG3aCXNj1j7lqRFuGxHHuQAX2xBm0YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26385375148-prtbtemj8geuqa81evbg76eav2qlslu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
